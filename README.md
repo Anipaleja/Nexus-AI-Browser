@@ -290,11 +290,11 @@ For support, please:
 1. Check the [Documentation](docs/)
 2. Search [Issues](https://github.com/anishpaleja/nexus-ai-browser/issues)
 3. Create a new issue if needed
-4. Join our [Discord](https://discord.gg/nexus-browser)
+4. Join our [Discord](https://discord.gg/NGWm79Uu)
 
 ---
 
-**Made with ❤️ by Anish Paleja**
+**Made by Anish Paleja - 2025**
 
 *Nexus AI Browser - The future of intelligent browsing*
 
