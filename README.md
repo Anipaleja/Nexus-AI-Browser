@@ -57,9 +57,9 @@ Nexus AI Browser is a revolutionary browsing experience that goes far beyond tra
 │  │     TensorFlow.js • OpenAI GPT-4 • NLP Libraries        │  │
 │  └─────────────────────────────────────────────────────────┘  │
 ├───────────────────────────────────────────────────────────────┤
-│                     Data Layer                                │
+│                         Data Layer                            │
 │  ┌─────────────────────────────────────────────────────────┐  │
-│  │     IndexedDB • Local Storage • Encrypted Data          │  │
+│  │         IndexedDB • Local Storage • Encrypted Data      │  │
 │  └─────────────────────────────────────────────────────────┘  │
 └───────────────────────────────────────────────────────────────┘
 ```
