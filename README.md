@@ -2,6 +2,16 @@
 
 > The world's most intelligent and personalized browser powered by advanced AI and machine learning
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/86268109-3403-499b-a750-c55f1fbe970d" 
+    alt="Nexus AI Browser Banner"
+    style="width: 100%; max-width: 900px; max-height: 100px; object-fit: cover; border-radius: 16px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);"
+  >
+</p>
+
+
+
 ## Overview
 
 Nexus AI Browser is a revolutionary browsing experience that goes far beyond traditional browsers. It combines cutting-edge artificial intelligence, real-time behavioral analysis, and hyper-personalization to create a browser that truly understands and adapts to you.
