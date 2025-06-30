@@ -1,5 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import styled from 'styled-components';
+import React, { useState } from 'react';
+
 
 const BrowserContainer = styled.div`
   display: flex;
